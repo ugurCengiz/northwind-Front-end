@@ -1,6 +1,6 @@
 # Northwind
 
-This project was generated with Angular CLI version 14.0.0
+This project was generated with Angular CLI version 14.0.6
 
 - Angular 14
 - Bootstrap 5.0
@@ -8,7 +8,7 @@ This project was generated with Angular CLI version 14.0.0
 - Temel Guard
 - Özel Pipeler
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
 ## Development server
 
