@@ -2,11 +2,11 @@
 
 This project was generated with Angular CLI version 14.0.0
 
-Angular 14
-Bootstrap 5.0
-HttpClient Interceptor
-Temel Guard
-Özel Pipeler
+- Angular 14
+- Bootstrap 5.0
+- HttpClient Interceptor
+- Temel Guard
+- Özel Pipeler
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
